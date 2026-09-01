@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">F1 Pulse</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_history">History</string>
+    <string name="nav_standings">Standings</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="home_next_race">Next Race</string>
+    <string name="home_no_upcoming">No upcoming races</string>
+    <string name="home_last_result">Last Result</string>
+    <string name="home_podium">Podium</string>
+    <string name="home_standings_snapshot">Standings</string>
+    <string name="home_view_all">View all</string>
+    <string name="home_lights_out">Lights Out In</string>
+    <string name="home_tap_to_reveal">Tap to reveal</string>
+
+    <!-- Sessions -->
+    <string name="session_fp1">FP1</string>
+    <string name="session_fp2">FP2</string>
+    <string name="session_fp3">FP3</string>
+    <string name="session_qualifying">Qualifying</string>
+    <string name="session_sprint">Sprint</string>
+    <string name="session_sprint_qualifying">Sprint Quali</string>
+    <string name="session_race">Race</string>
+    <string name="session_completed">Completed</string>
+    <string name="session_live">Live</string>
+    <string name="session_upcoming">Upcoming</string>
+    <string name="session_results_pending">Results appear about 30 minutes after the session ends</string>
+    <string name="session_dnf">DNF</string>
+    <string name="session_dns">DNS</string>
+    <string name="session_dsq">DSQ</string>
+    <string name="session_laps_format">%1$d laps</string>
+
+    <!-- Calendar -->
+    <string name="calendar_upcoming">Upcoming</string>
+    <string name="calendar_past">Past</string>
+    <string name="calendar_round">Round %1$d</string>
+    <string name="calendar_done">Done</string>
+
+    <!-- History -->
+    <string name="history_season">Season</string>
+    <string name="history_choose_season">Choose season</string>
+    <string name="history_no_results">No completed races for this season</string>
+    <string name="history_close">Close</string>
+
+    <!-- Standings -->
+    <string name="standings_drivers">Drivers</string>
+    <string name="standings_constructors">Constructors</string>
+    <string name="standings_pos">Pos</string>
+    <string name="standings_driver">Driver</string>
+    <string name="standings_team">Team</string>
+    <string name="standings_points">Pts</string>
+    <string name="standings_wins">Wins</string>
+    <string name="standings_gap">Gap</string>
+
+    <!-- Race detail -->
+    <string name="race_sessions">Schedule</string>
+    <string name="race_circuit">Circuit</string>
+    <string name="race_weather">Weather</string>
+    <string name="race_current_session">Live Session</string>
+    <string name="race_results">Results</string>
+    <string name="race_fast_facts">Fast Facts</string>
+    <string name="race_pole">Pole</string>
+    <string name="race_fastest_lap">Fastest Lap</string>
+    <string name="race_length">Length</string>
+    <string name="race_corners">Corners</string>
+    <string name="race_drs">DRS Zones</string>
+    <string name="race_first_held">First Held</string>
+    <string name="race_lap_record">Lap Record</string>
+    <string name="race_no_results">No results yet</string>
+
+    <!-- Weather -->
+    <string name="weather_air">Air</string>
+    <string name="weather_track">Track</string>
+    <string name="weather_humidity">Humidity</string>
+    <string name="weather_wind">Wind</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_dry">Dry</string>
+    <string name="weather_wet">Wet</string>
+    <string name="weather_no_data">No weather data</string>
+
+    <!-- Results table -->
+    <string name="result_pos">Pos</string>
+    <string name="result_grid">Grid</string>
+    <string name="result_laps">Laps</string>
+    <string name="result_time">Time</string>
+    <string name="result_status">Status</string>
+    <string name="result_pts">Pts</string>
+    <string name="result_q1">Q1</string>
+    <string name="result_q2">Q2</string>
+    <string name="result_q3">Q3</string>
+
+    <!-- Driver detail -->
+    <string name="driver_team">Team</string>
+    <string name="constructor_drivers">Drivers</string>
+    <string name="driver_number">Number</string>
+    <string name="driver_nationality">Nationality</string>
+    <string name="driver_dob">Born</string>
+    <string name="driver_championship">Championship</string>
+    <string name="driver_recent">Recent Results</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_timezone">Timezone</string>
+    <string name="settings_tz_device">Device</string>
+    <string name="settings_tz_race">Race local</string>
+    <string name="settings_spoiler">Spoiler-free</string>
+    <string name="settings_spoiler_subtitle">Hide results until tapped</string>
+    <string name="settings_widget">Widgets</string>
+    <string name="settings_refresh_interval">Refresh interval</string>
+    <string name="settings_refresh_now">Refresh data now</string>
+    <string name="settings_about">About</string>
+    <string name="settings_data_sources">Data Sources</string>
+    <string name="settings_data_sources_desc">Data provided by the free Jolpica F1 and OpenF1 APIs. Not affiliated with Formula One.</string>
+    <string name="settings_disclaimer">F1, FORMULA ONE and related marks are trademarks of Formula One Licensing B.V. This is an unofficial fan-made app.</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_min_15min">Minimum 15 minutes</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_network">Network unavailable. Check your connection.</string>
+    <string name="error_server">Server error. Try again later.</string>
+    <string name="error_empty">No data available</string>
+    <string name="error_parse">Failed to parse data</string>
+    <string name="no_connection">No connection — showing cached data</string>
+    <string name="countdown_days">d</string>
+    <string name="countdown_hours">h</string>
+    <string name="countdown_minutes">m</string>
+    <string name="countdown_seconds">s</string>
+    <string name="reveal_results">Show results</string>
+
+    <!-- Widgets -->
+    <string name="widget_countdown_label">F1 Countdown</string>
+    <string name="widget_next_race_label">F1 Next Race</string>
+    <string name="widget_drivers_label">F1 Drivers</string>
+    <string name="widget_constructors_label">F1 Constructors</string>
+    <string name="widget_refresh">Refresh</string>
+    <string name="widget_no_data">No data — open app to load</string>
+    <string name="widget_last_updated">Updated %1$s</string>
+    <string name="widget_tap_open">Tap to open app</string>
+    <string name="settings_add_widget">Add widget to Home screen</string>
+    <string name="settings_add_widget_desc">Choose a widget to add to your Home screen</string>
+    <string name="widget_countdown_desc">Countdown to the next Grand Prix session</string>
+    <string name="widget_next_race_desc">Race weekend schedule and circuit information</string>
+    <string name="widget_drivers_desc">Top 5 driver standings</string>
+    <string name="widget_constructors_desc">Top 5 constructor standings</string>
+    <string name="widget_favorite_team_label">F1 Favorite Team Widget</string>
+    <string name="widget_favorite_team_desc">Pick a team to follow its points &amp; rank</string>
+    <string name="widget_favorite_driver_label">F1 Favorite Driver Widget</string>
+    <string name="widget_favorite_driver_desc">Pick a driver to follow their points &amp; rank</string>
+    <string name="widget_last_session_label">F1 Last Session</string>
+    <string name="widget_last_session_desc">Results of the session that just finished (practice / qualifying / race)</string>
+    <string name="widget_pin_failed_title">Could not add widget</string>
+    <string name="widget_pin_failed">Your launcher did not accept the request. Long-press the Home screen to add it manually.</string>
+    <string name="widget_favorite_team_config_title">Favorite Team Widget</string>
+    <string name="widget_favorite_team_config_desc">Choose your favorite team</string>
+    <string name="widget_favorite_driver_config_title">Favorite Driver Widget</string>
+    <string name="widget_favorite_driver_config_desc">Choose your favorite driver</string>
+    <string name="widget_favorite_selected">Selected</string>
+    <string name="widget_favorite_none">None</string>
+    <string name="back">Back</string>
+    <string name="timezone_device_label">Device time zone</string>
+    <string name="timezone_race_local_label">Race local time</string>
+    <string name="timezone_device_desc">Shows all times in the phone current time zone</string>
+    <string name="timezone_race_local_desc">Shows each race in the circuit local time zone</string>
+    <string name="settings_refresh_failed_title">Refresh failed</string>
+    <string name="settings_refresh_failed_message">Could not reach the race data service. Check your connection and try again.</string>
+    <string name="settings_refresh_failed_confirm">Got it</string>
+    <string name="home_results_network_issue">⚠️ Network issue</string>
+</resources>

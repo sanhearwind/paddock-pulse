@@ -1,0 +1,17 @@
+package com.f1pulse.app.domain.usecase
+
+import com.f1pulse.app.data.mapper.toDomain
+import com.f1pulse.app.data.repository.StandingsRepository
+import com.f1pulse.app.domain.model.DriverStanding
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
+import javax.inject.Inject
+
+class GetDriverStandingsUseCase @Inject constructor(
+    private val standingsRepository: StandingsRepository,
+) {
+    operator fun invoke(season: Int): Flow<List<DriverStanding>> =
+        standingsRepository.observeDriverStandings(season).map { list ->
+            list.map { it.toDomain() }
+        }
+}

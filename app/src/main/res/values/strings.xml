@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">F1 Pulse</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_calendar">赛程</string>
+    <string name="nav_history">历史</string>
+    <string name="nav_standings">积分榜</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- Home -->
+    <string name="home_next_race">下场赛事 · Next Race</string>
+    <string name="home_no_upcoming">暂无即将开始的赛事</string>
+    <string name="home_last_result">上次成绩 · Last Result</string>
+    <string name="home_podium">领奖台 · Podium</string>
+    <string name="home_standings_snapshot">积分榜速览 · Standings</string>
+    <string name="home_view_all">查看全部</string>
+    <string name="home_lights_out">开赛倒计时 · Lights Out In</string>
+    <string name="home_tap_to_reveal">点击查看</string>
+
+    <!-- Sessions -->
+    <string name="session_fp1">练习赛 1 · FP1</string>
+    <string name="session_fp2">练习赛 2 · FP2</string>
+    <string name="session_fp3">练习赛 3 · FP3</string>
+    <string name="session_qualifying">排位赛 · Qualifying</string>
+    <string name="session_sprint">冲刺赛 · Sprint</string>
+    <string name="session_sprint_qualifying">冲刺排位 · Sprint Quali</string>
+    <string name="session_race">正赛 · Race</string>
+    <string name="session_completed">已结束</string>
+    <string name="session_live">进行中</string>
+    <string name="session_upcoming">即将开始</string>
+    <string name="session_results_pending">成绩将在该场次结束约 30 分钟后更新</string>
+    <string name="session_dnf">未完赛</string>
+    <string name="session_dns">未发车</string>
+    <string name="session_dsq">取消成绩</string>
+    <string name="session_laps_format">%1$d 圈</string>
+
+    <!-- Calendar -->
+    <string name="calendar_upcoming">即将开始 · Upcoming</string>
+    <string name="calendar_past">已结束 · Past</string>
+    <string name="calendar_round">第 %1$d 站</string>
+    <string name="calendar_done">已完成</string>
+
+    <!-- History -->
+    <string name="history_season">赛季 · Season</string>
+    <string name="history_choose_season">选择赛季</string>
+    <string name="history_no_results">该赛季暂无已结束赛事</string>
+    <string name="history_close">关闭</string>
+
+    <!-- Standings -->
+    <string name="standings_drivers">车手 · Drivers</string>
+    <string name="standings_constructors">车队 · Constructors</string>
+    <string name="standings_pos">名次</string>
+    <string name="standings_driver">车手</string>
+    <string name="standings_team">车队</string>
+    <string name="standings_points">积分</string>
+    <string name="standings_wins">胜场</string>
+    <string name="standings_gap">差距</string>
+
+    <!-- Race detail -->
+    <string name="race_sessions">赛程时间 · Schedule</string>
+    <string name="race_circuit">赛道 · Circuit</string>
+    <string name="race_weather">天气 · Weather</string>
+    <string name="race_current_session">本场次 · Live Session</string>
+    <string name="race_results">成绩 · Results</string>
+    <string name="race_fast_facts">速览 · Fast Facts</string>
+    <string name="race_pole">杆位 · Pole</string>
+    <string name="race_fastest_lap">最快圈 · Fastest Lap</string>
+    <string name="race_length">赛道长度</string>
+    <string name="race_corners">弯角数</string>
+    <string name="race_drs">DRS 区</string>
+    <string name="race_first_held">首办年份</string>
+    <string name="race_lap_record">圈速纪录</string>
+    <string name="race_no_results">暂无成绩数据</string>
+
+    <!-- Weather -->
+    <string name="weather_air">气温</string>
+    <string name="weather_track">赛道温度</string>
+    <string name="weather_humidity">湿度</string>
+    <string name="weather_wind">风速</string>
+    <string name="weather_rain">降雨</string>
+    <string name="weather_dry">干地</string>
+    <string name="weather_wet">湿地</string>
+    <string name="weather_no_data">暂无天气数据</string>
+
+    <!-- Results table -->
+    <string name="result_pos">位</string>
+    <string name="result_grid">发车</string>
+    <string name="result_laps">圈数</string>
+    <string name="result_time">用时</string>
+    <string name="result_status">状态</string>
+    <string name="result_pts">分</string>
+    <string name="result_q1">Q1</string>
+    <string name="result_q2">Q2</string>
+    <string name="result_q3">Q3</string>
+
+    <!-- Driver detail -->
+    <string name="driver_team">车队</string>
+    <string name="constructor_drivers">车手阵容</string>
+    <string name="driver_number">车号</string>
+    <string name="driver_nationality">国籍</string>
+    <string name="driver_dob">出生日期</string>
+    <string name="driver_championship">积分榜</string>
+    <string name="driver_recent">近期成绩</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置 · Settings</string>
+    <string name="settings_appearance">外观 · Appearance</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_system">跟随系统</string>
+    <string name="settings_theme_dark">深色</string>
+    <string name="settings_theme_light">浅色</string>
+    <string name="settings_timezone">时区 · Timezone</string>
+    <string name="settings_tz_device">设备时区</string>
+    <string name="settings_tz_race">赛道当地</string>
+    <string name="settings_spoiler">剧透屏蔽 · Spoiler-free</string>
+    <string name="settings_spoiler_subtitle">隐藏成绩直到点击查看</string>
+    <string name="settings_widget">小部件 · Widgets</string>
+    <string name="settings_refresh_interval">刷新间隔</string>
+    <string name="settings_refresh_now">立即刷新数据</string>
+    <string name="settings_about">关于 · About</string>
+    <string name="settings_data_sources">数据来源 · Data Sources</string>
+    <string name="settings_data_sources_desc">本应用数据由免费的 Jolpica F1 与 OpenF1 API 提供，与 Formula One 官方无关。</string>
+    <string name="settings_disclaimer">F1、FORMULA ONE 等为 Formula One Licensing B.V. 的注册商标，本应用为非官方车迷作品。</string>
+    <string name="settings_version">版本</string>
+    <string name="settings_min_15min">最短 15 分钟</string>
+
+    <!-- Common -->
+    <string name="loading">加载中…</string>
+    <string name="retry">重试</string>
+    <string name="refresh">刷新</string>
+    <string name="error_network">网络连接失败，请检查网络</string>
+    <string name="error_server">服务器错误，请稍后再试</string>
+    <string name="error_empty">暂无数据</string>
+    <string name="error_parse">数据解析失败</string>
+    <string name="no_connection">无网络连接，显示缓存数据</string>
+    <string name="countdown_days">天</string>
+    <string name="countdown_hours">时</string>
+    <string name="countdown_minutes">分</string>
+    <string name="countdown_seconds">秒</string>
+    <string name="reveal_results">显示成绩</string>
+
+    <!-- Widgets -->
+    <string name="widget_countdown_label">F1 倒计时</string>
+    <string name="widget_next_race_label">F1 下场赛事</string>
+    <string name="widget_drivers_label">F1 车手积分</string>
+    <string name="widget_constructors_label">F1 车队积分</string>
+    <string name="widget_refresh">刷新</string>
+    <string name="widget_no_data">暂无数据，打开 App 加载</string>
+    <string name="widget_last_updated">更新于 %1$s</string>
+    <string name="widget_tap_open">点击打开 App</string>
+    <string name="settings_add_widget">添加小部件到主屏幕</string>
+    <string name="settings_add_widget_desc">选择一个小部件添加到桌面</string>
+    <string name="widget_countdown_desc">下场大奖赛倒计时</string>
+    <string name="widget_next_race_desc">下场赛事时间表与赛道信息</string>
+    <string name="widget_drivers_desc">车手积分榜 Top 5</string>
+    <string name="widget_constructors_desc">车队积分榜 Top 5</string>
+    <string name="widget_favorite_team_label">F1 收藏车队小部件</string>
+    <string name="widget_favorite_team_desc">选择一支车队，显示其积分与排名</string>
+    <string name="widget_favorite_driver_label">F1 收藏车手小部件</string>
+    <string name="widget_favorite_driver_desc">选择一位车手，显示其积分与排名</string>
+    <string name="widget_last_session_label">F1 上场结果</string>
+    <string name="widget_last_session_desc">最近结束场次的成绩（练习赛/排位赛/正赛）</string>
+    <string name="widget_pin_failed_title">无法添加小部件</string>
+    <string name="widget_pin_failed">桌面未接受添加请求，请长按桌面手动添加。</string>
+    <string name="widget_favorite_team_config_title">收藏车队小部件</string>
+    <string name="widget_favorite_team_config_desc">选择你支持的车队</string>
+    <string name="widget_favorite_driver_config_title">收藏车手小部件</string>
+    <string name="widget_favorite_driver_config_desc">选择你支持的车手</string>
+    <string name="widget_favorite_selected">已选择</string>
+    <string name="widget_favorite_none">未选择</string>
+    <string name="back">返回</string>
+    <string name="timezone_device_label">设备时区时间</string>
+    <string name="timezone_race_local_label">比赛当地时间</string>
+    <string name="timezone_device_desc">所有时间按手机当前时区显示</string>
+    <string name="timezone_race_local_desc">每场比赛按赛道所在地时区显示</string>
+    <string name="settings_refresh_failed_title">刷新失败</string>
+    <string name="settings_refresh_failed_message">无法连接到赛事数据服务，请检查网络后重试。</string>
+    <string name="settings_refresh_failed_confirm">知道了</string>
+    <string name="home_results_network_issue">⚠️网络问题</string>
+</resources>

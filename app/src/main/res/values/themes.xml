@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Day/default theme. Compose renders the real UI; this only sets the
+         window backdrop + system bar icon appearance before Compose draws. -->
+    <style name="Theme.F1Pulse" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

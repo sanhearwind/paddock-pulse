@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Widget colors — DARK mode -->
+    <color name="widget_background">#0A0A0C</color>
+    <color name="widget_surface">#121215</color>
+    <color name="widget_primary">#E10600</color>
+    <color name="widget_on_primary">#FFFFFF</color>
+    <color name="widget_text_primary">#EAEAEF</color>
+    <color name="widget_text_secondary">#8E8E96</color>
+    <color name="widget_text_muted">#5A5A64</color>
+    <color name="widget_border">#1E1E22</color>
+    <color name="widget_pos1">#E10600</color>
+    <color name="widget_pos2">#FF5945</color>
+    <color name="widget_pos3">#FF8C80</color>
+</resources>
