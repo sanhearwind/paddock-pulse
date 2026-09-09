@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">F1 Pulse</string>
+    <string name="app_name">paddock-pulse</string>
 
     <!-- Bottom navigation -->
     <string name="nav_home">首页</string>

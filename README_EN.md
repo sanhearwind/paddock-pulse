@@ -1,8 +1,8 @@
 [简体中文](README.md)
 
-# F1 Pulse
+# paddock-pulse
 
-F1 Pulse is a personal, unofficial Android fan app for race schedules, standings, session results, time-zone conversion, and home-screen widgets. It is published as a software-development portfolio project and has no relationship with Formula 1, the FIA, any team, or any driver.
+paddock-pulse is a personal, unofficial Android fan app for race schedules, standings, session results, time-zone conversion, and home-screen widgets. It is published as a software-development portfolio project and has no relationship with Formula 1, the FIA, any team, or any driver.
 
 ## Features
 

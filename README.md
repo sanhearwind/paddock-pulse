@@ -1,8 +1,8 @@
 [English](README_EN.md)
 
-# F1 Pulse
+# paddock-pulse
 
-F1 Pulse 是一个个人开发的非官方 Android 车迷应用，提供赛历、积分榜、比赛结果、时区转换和桌面小部件等功能。本项目作为软件开发作品集公开，与 Formula 1、FIA、任何车队或车手均无关系。
+paddock-pulse 是一个个人开发的非官方 Android 车迷应用，提供赛历、积分榜、比赛结果、时区转换和桌面小部件等功能。本项目作为软件开发作品集公开，与 Formula 1、FIA、任何车队或车手均无关系。
 
 ## 主要功能
 

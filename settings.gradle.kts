@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "F1Pulse"
+rootProject.name = "paddock-pulse"
 include(":app")
